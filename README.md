@@ -12,3 +12,10 @@ Given HR_data.csv, analyse the following:\
 - Prima facie reason for employee attrition
 - Impact of salary on employee retention
 - Department-wise employee attrition vs retention
+
+**Titanic survival prediction based on age and ticket fare**\
+Given titanic.csv, do the following:\
+- clean up the data
+- identify input and target data
+- train using Decision Tree and check the accuracy
+- perform sample prediction on test and random data
