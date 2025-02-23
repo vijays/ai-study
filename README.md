@@ -29,3 +29,9 @@ Check the accuracy of the following models:
 
 Compare the above using StratifiedKFold manually with 3 folds.\
 Next compare the manual results with Scikit Learn's inbuilt function - cross_val_score
+
+**KMeans Clustering**\
+Given income.csv, using Age and Income features:
+- Confirm if KMeans algorithm identifies the same clusters as we do visually
+- Scale the data using pre-processing for correct clustering
+- Reconfirm optimal cluster count k using Elbow method
