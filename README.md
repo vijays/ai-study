@@ -40,3 +40,7 @@ Given income.csv, using Age and Income features:
 Given messages.csv, find Spam:
  - Apply Bag of Word approach using CountVectorizer
  - Simplify code using Pipeline
+
+**Hyper Parameter Tuning**\
+On Scikit Learn's inbuilt digits dataset, run a list of models with different parameters.\
+Find the best model and related best parameter values.
