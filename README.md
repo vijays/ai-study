@@ -13,7 +13,7 @@ Given HR_data.csv, analyse the following:
 - Impact of salary on employee retention
 - Department-wise employee attrition vs retention
 
-**Titanic survival prediction based on age and ticket fare**\
+**Titanic survival prediction using Decision Tree**\
 Given titanic.csv, do the following:
 - clean up the data
 - identify input and target data
@@ -35,3 +35,8 @@ Given income.csv, using Age and Income features:
 - Confirm if KMeans algorithm identifies the same clusters as we do visually
 - Scale the data using pre-processing for correct clustering
 - Reconfirm optimal cluster count k using Elbow method
+
+**Spam Filter using Naive Bayes**\
+Given messages.csv, find Spam:
+ - Apply Bag of Word approach using CountVectorizer
+ - Simplify code using Pipeline
