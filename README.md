@@ -44,3 +44,9 @@ Given messages.csv, find Spam:
 **Hyper Parameter Tuning**\
 On Scikit Learn's inbuilt digits dataset, run a list of models with different parameters.\
 Find the best model and related best parameter values.
+
+**K-Nearest Neighbors**\
+On Scikit Learn's digits dataset:
+- Classify digits (0 to 9) using KNN classifier
+- Plot confusion matrix
+- Plot classification report
